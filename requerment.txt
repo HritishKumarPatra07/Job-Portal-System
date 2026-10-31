@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pymysql
+sqlalchemy
+passlib 
+python-jose
+bcrypt
+pydantic[email]
